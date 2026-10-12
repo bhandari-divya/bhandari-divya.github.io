@@ -1,1 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="14" fill="#a51c30"/><text x="32" y="43" font-family="Arial" font-weight="bold" text-anchor="middle" fill="#fff" font-size="38">D</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="DB monogram">
+  <rect width="128" height="128" rx="24" fill="#A51C30"/>
+  <text x="16" y="91" font-family="Georgia, 'Times New Roman', serif" font-weight="bold" font-size="78" fill="#FFFFFF">D</text>
+  <text x="73" y="89" font-family="Georgia, 'Times New Roman', serif" font-weight="bold" font-size="57" fill="#FFFFFF">B</text>
+</svg>
